@@ -16,6 +16,6 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 - 📫 Reach me: yadavsachin5001@gmail.com
 
 ## Connect With Me :
-<a href="https://www.linkedin.com/in/sachin-yadav-631b6031a/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muralikrishna-popuri-90b112239" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/mr.sachin_72?igsh=MW9ma2lhbnA1cWZxdw==" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muralikrishnaorg" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/sachin-yadav-631b6031a/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/mr.sachin_72?igsh=MW9ma2lhbnA1cWZxdw==" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin" height="30" width="40" style="max-width: 100%;"></a>
 
