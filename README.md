@@ -1,7 +1,7 @@
 ## Hey! 👋 Developers I am Sachin Yadav
 
 
-**About Me :**
+**About Me:**
 I'm a Full Stack Web Developer passionate about building web applications and learning new technologies.
 
 ## Skills
