@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 ## Skills
 - **Languages**: JavaScript, Python, Html, Css, Java
 - **Frameworks**: React, Node.js, MongoDb,Express js, Spark, OOPs
-- **Tools**: Git, Ai, Postman, VS Code
+- **Tools**: Git, Ai, Postman, VS Code, ML
   
 
 - 🔭 I’m currently working on: **N/A**
