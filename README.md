@@ -17,7 +17,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 
 -  👨‍💻 All of my projects are available at [Projects](https://sachin-tech72.netlify.app/#projects)
    
- ## A passionate frontend developer 
+ ## A passionate Full Stack developer 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0613&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0613" /> </p>
 
