@@ -5,13 +5,13 @@
 I'm a Full Stack Web Developer passionate about building web applications and learning new technologies.
 
 ## Skills
-- **Languages**: JavaScript, Python, Html,Css
-- **Frameworks**: React, Node.js, MongoDb
-- **Tools**: Git, Ai, WordPress
+- **Languages**: JavaScript, Python, Html, Css, Java
+- **Frameworks**: React, Node.js, MongoDb,Express js, Spark, OOPs
+- **Tools**: Git, Ai, Postman, VS Code
   
 
-- 🔭 I’m currently working on: **None**
-- 🌱 I’m currently learning: **Backend**
+- 🔭 I’m currently working on: **N/A**
+- 🌱 I’m currently learning: **AWS, DATA ANALYST**
 - 💬 Ask me about: **Frontend as well as Backend projects**
 - 📫 Reach me: yadavsachin5001@gmail.com
 
