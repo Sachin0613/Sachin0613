@@ -2,7 +2,10 @@
 
 
 **About Me :**
-I'm a Full Stack Web Developer passionate about building web applications and learning new technologies.
+ Full Stack Web Developer |  Tech Enthusiast |  Learner
+
+I’m passionate about building scalable web applications and exploring new technologies.
+Currently diving deeper into MERN and Cloud deployment.
 
 ## Skills
 - **Languages**: JavaScript, Python, Html, Css, Java
