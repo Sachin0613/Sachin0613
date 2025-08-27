@@ -54,9 +54,6 @@
 <img align="center" src="https://img.icons8.com/color/48/web.png" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachin0613/sachin0613/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 
