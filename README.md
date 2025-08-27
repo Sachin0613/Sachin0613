@@ -54,6 +54,8 @@
 <img align="center" src="https://img.icons8.com/color/48/web.png" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
 
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sachin0613&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
 
