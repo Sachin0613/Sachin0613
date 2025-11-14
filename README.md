@@ -6,9 +6,9 @@
 
 
 ## Skills
-- **Languages**: JavaScript, Python, Html, Css, Java
-- **Frameworks**: React, Node.js, MongoDb,Express js, Spark, OOPs
-- **Tools**: Git, Ai, Postman, VS Code, ML
+- **Languages**: C++, JavaScript, TypeScript, Python, Html, Css, Java(Basic)
+- **Frameworks/DataBAse**: React, Node.js, MongoDb,Express js, Spark, OOPs, DBMS
+- **Tools/Tech**: Git, Ai, Postman, VS Code, ML, Power BI
   
 
 - 🔭 I’m currently working on: **N/A**
