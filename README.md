@@ -7,7 +7,7 @@
 
 ## Skills
 - **Languages**: C++, JavaScript, TypeScript, Python, Html, Css, Java(Basic)
-- **Frameworks/DataBAse**: React, Node.js, MongoDb,Express js, Spark, OOPs, DBMS
+- **Frameworks/DataBase**: React, Node.js, MongoDb,Express js, Spark, OOPs, DBMS
 - **Tools/Tech**: Git, Ai, Postman, VS Code, ML, Power BI
   
 
