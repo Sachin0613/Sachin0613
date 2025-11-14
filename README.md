@@ -16,7 +16,7 @@
 - 💬 Ask me about: **Frontend as well as Backend projects**
 - 📫 Reach me: yadavsachin5001@gmail.com
 
--  👨‍💻 All of my projects are available at [Projects](https://sachin-tech72.netlify.app/#projects)
+-  👨‍💻 All of my projects are available at [Projects](https://sachin-portfolio-72.vercel.app/#projects)
    
 ##  Tech Stack
 <p align="center">
