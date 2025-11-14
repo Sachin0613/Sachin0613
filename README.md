@@ -50,7 +50,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.sachin_72" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sachin6001" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachin6001" height="30" width="40" /></a>
-<a href="https://sachin-tech72.netlify.app/" target="blank">
+<a href="https://sachin-portfolio-72.vercel.app/" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/web.png" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
 
