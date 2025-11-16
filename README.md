@@ -12,7 +12,7 @@
   
 
 - 🔭 I’m currently working on: **N/A**
-- 🌱 I’m currently learning: **AWS, DATA ANALYST**
+- 🌱 I’m currently learning: **AWS, DATA ANALYST,LLM & AI AGENT**
 - 💬 Ask me about: **Frontend as well as Backend projects**
 - 📫 Reach me: yadavsachin5001@gmail.com
 
