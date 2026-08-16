@@ -20,6 +20,7 @@
   </a>
 </p>
 
+### 💻 [Try my interactive terminal →](https://sachin0613.github.io/terminal)
 ---
 
 ### 🚀 About Me
