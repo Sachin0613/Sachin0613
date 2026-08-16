@@ -83,22 +83,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sachin-yadav-631b6031a/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/sachin6001" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-<a href="https://sachin-portfolio-72.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/color/48/web.png" alt="Portfolio" height="30" width="40" />
-</a>
-<a href="mailto:yadavsachin5001@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40" />
-</a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachin0613&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
