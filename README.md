@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-
-### 💻 [Try my interactive terminal →](https://sachin0613.github.io/terminal)
+---
+### 💻 Try my interactive terminal - [Clickl Here →](https://sachin0613.github.io/terminal)
 ---
 
 ### 🚀 About Me
